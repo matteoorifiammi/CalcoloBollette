@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WTE8ZVbm5asm4SA29ERNoWNKJaRRJTeuYEbNzt5FXIA6ii3LxE2D1wW/eZYbUkVPAt7P/WTdcW6UpMomGlLiLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matte\\source\\repos\\ProvaIngressoBollette\\ProvaIngressoBollette\\ProvaIngressoBollette.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matte\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

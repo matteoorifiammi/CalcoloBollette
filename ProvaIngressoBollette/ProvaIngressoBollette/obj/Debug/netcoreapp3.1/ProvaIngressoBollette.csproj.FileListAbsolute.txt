@@ -1,0 +1,14 @@
+C:\Users\matte\source\repos\ProvaIngressoBollette\ProvaIngressoBollette\bin\Debug\netcoreapp3.1\ProvaIngressoBollette.exe
+C:\Users\matte\source\repos\ProvaIngressoBollette\ProvaIngressoBollette\bin\Debug\netcoreapp3.1\ProvaIngressoBollette.deps.json
+C:\Users\matte\source\repos\ProvaIngressoBollette\ProvaIngressoBollette\bin\Debug\netcoreapp3.1\ProvaIngressoBollette.runtimeconfig.json
+C:\Users\matte\source\repos\ProvaIngressoBollette\ProvaIngressoBollette\bin\Debug\netcoreapp3.1\ProvaIngressoBollette.runtimeconfig.dev.json
+C:\Users\matte\source\repos\ProvaIngressoBollette\ProvaIngressoBollette\bin\Debug\netcoreapp3.1\ProvaIngressoBollette.dll
+C:\Users\matte\source\repos\ProvaIngressoBollette\ProvaIngressoBollette\bin\Debug\netcoreapp3.1\ProvaIngressoBollette.pdb
+C:\Users\matte\source\repos\ProvaIngressoBollette\ProvaIngressoBollette\obj\Debug\netcoreapp3.1\ProvaIngressoBollette.csproj.AssemblyReference.cache
+C:\Users\matte\source\repos\ProvaIngressoBollette\ProvaIngressoBollette\obj\Debug\netcoreapp3.1\ProvaIngressoBollette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\source\repos\ProvaIngressoBollette\ProvaIngressoBollette\obj\Debug\netcoreapp3.1\ProvaIngressoBollette.AssemblyInfoInputs.cache
+C:\Users\matte\source\repos\ProvaIngressoBollette\ProvaIngressoBollette\obj\Debug\netcoreapp3.1\ProvaIngressoBollette.AssemblyInfo.cs
+C:\Users\matte\source\repos\ProvaIngressoBollette\ProvaIngressoBollette\obj\Debug\netcoreapp3.1\ProvaIngressoBollette.csproj.CoreCompileInputs.cache
+C:\Users\matte\source\repos\ProvaIngressoBollette\ProvaIngressoBollette\obj\Debug\netcoreapp3.1\ProvaIngressoBollette.dll
+C:\Users\matte\source\repos\ProvaIngressoBollette\ProvaIngressoBollette\obj\Debug\netcoreapp3.1\ProvaIngressoBollette.pdb
+C:\Users\matte\source\repos\ProvaIngressoBollette\ProvaIngressoBollette\obj\Debug\netcoreapp3.1\ProvaIngressoBollette.genruntimeconfig.cache
